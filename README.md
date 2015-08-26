@@ -27,3 +27,10 @@ Its very easy to use you can add SKShpaeNode as menu item.
 **Credit**
 
 This component use DSMultilineLabelNode to use wrap text in two lines you can find that here https://github.com/downrightsimple/DSMultilineLabelNode 
+
+
+**Example**
+
+[Video](https://youtu.be/XfvnCTyh8sQ)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XfvnCTyh8sQ/1.jpg)](http://www.youtube.com/watch?v=XfvnCTyh8sQ)
