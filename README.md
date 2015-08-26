@@ -14,7 +14,7 @@ Its very easy to use you can add SKShpaeNode as menu item.
 4. Set animatedSceneDelegate if you want to get notify when user selects menuItem (node)
 
 
-```cObj
+```objectivec
 _skView = [[SKView alloc] initWithFrame:self.view.bounds];
 [self.view insertSubview:_skView atIndex:0];
 _animatedMenuScene = [[AnimatedMenuScene alloc] initWithSize:self.skView.bounds.size];  
