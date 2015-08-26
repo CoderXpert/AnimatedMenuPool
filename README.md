@@ -23,3 +23,7 @@ Its very easy to use you can add SKShpaeNode as menu item.
         
         _animatedMenuScene.backgroundColor = [UIColor blueColor];
         [_skView presentScene:_animatedMenuScene];
+        
+**Credit**
+
+This component use DSMultilineLabelNode to use wrap text in two lines you can find that here https://github.com/downrightsimple/DSMultilineLabelNode 
