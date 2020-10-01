@@ -31,6 +31,8 @@ This component use DSMultilineLabelNode to use wrap text in two lines you can fi
 
 **Example**
 
+wach video for more information.
+
 [Video](https://youtu.be/XfvnCTyh8sQ)
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XfvnCTyh8sQ/1.jpg)](http://www.youtube.com/watch?v=XfvnCTyh8sQ)
